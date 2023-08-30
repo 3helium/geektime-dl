@@ -1,4 +1,4 @@
-module github.com/3helium/geektime-dl
+module module github.com/mmzou/geektime-dl
 
 go 1.13
 
